@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinoth Kumar 
 - 👀 I’m interested in Frontend and Software Developer Roles.
-- 🌱 I’m currently learning Computer Science Engineering from Sri Krishna College of Engineering and Technology🏫
+- 🌱 I’m currently working at Intain Technologies Private Limted
 - 📫 How to reach me :
 
   LinkedIn - https://www.linkedin.com/in/vinothkumarc02
